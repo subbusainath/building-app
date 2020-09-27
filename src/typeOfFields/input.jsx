@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 class Input extends Component {
 
 
-    //initial state
+    //initial state 
     constructor(props){
         super();
 

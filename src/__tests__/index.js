@@ -6,7 +6,7 @@ import sinon from 'sinon';
 
 import MyComponent from '../index';
 
-// Demo tests
+// Demo tests 
 
 // Shallow Rendering
 // https://github.com/airbnb/enzyme/blob/master/docs/api/shallow.md

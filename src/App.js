@@ -8,7 +8,7 @@ function App(){
             <Builder/>
             <div className="button-area">
                 <CustomButton buttonStyle="btn--primary--outline" buttonSize="btn--larger">
-                    Save Me 
+                    Save Me
                 </CustomButton>
             </div>
         </div>

@@ -1,6 +1,6 @@
 import React from 'react';
 import './custom-button.css';
-
+ 
 const STYLES = [
     "btn--primary--solid",
     "btn--warning--solid",

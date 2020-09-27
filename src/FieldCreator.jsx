@@ -15,7 +15,7 @@ class FieldCreator extends Component {
         super()
         this.objectField = props.definedFields[props.actualElem.typefield]
 
-
+        //new state
         var newState = {
             generalFieldsShow: false,
             extraFieldsShow: false

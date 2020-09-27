@@ -17,7 +17,7 @@ class Checkbox extends Component {
 
     }
 
-
+    //input handler
     handleInputChange = () => {
         this.setState({
             ...this.state,

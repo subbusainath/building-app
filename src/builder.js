@@ -17,7 +17,7 @@ class Builder extends Component {
         }
 
         if(props.jsonToLoad !== undefined){
-            //load existing json
+            //load existing json ---
             var arrayRes = []
             Object.keys(props.jsonToLoad).map((item)=>{
                 arrayRes.push(this.normalElem(
